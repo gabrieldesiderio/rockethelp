@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "91938259462",
+    "project_id": "rockethelp-eaf78",
+    "storage_bucket": "rockethelp-eaf78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91938259462:android:065ae6355c7e7fe5b0f987",
+        "android_client_info": {
+          "package_name": "com.gabrieldesiderio.rockethelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91938259462-s5hgkbn4qajar5vai8gr8bip0bgnigco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGzPYKHjVGoGW0sUXzaDk8rlcHn_eUDJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91938259462-s5hgkbn4qajar5vai8gr8bip0bgnigco.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "91938259462-h0qg1lm360ml9mbp258q9lu7so5kmtdv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gabrieldesiderio.rockethelp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
