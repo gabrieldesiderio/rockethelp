@@ -60,14 +60,14 @@ export function Home() {
       .where("status", "==", statusSelected)
       .onSnapshot((snapshot) => {
         const data = snapshot.docs.map((doc) => {
-          const { patrimony, description, status, createdAt } = doc.data();
+          const { patrimony, description, status, created_at } = doc.data();
 
           return {
             id: doc.id,
             patrimony,
             description,
             status,
-            when: dateFormat(createdAt),
+            when: dateFormat(created_at),
           };
         });
 
